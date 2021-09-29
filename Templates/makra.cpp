@@ -35,3 +35,4 @@ sim dor(const c&) { ris; }
 int main() { 
     
 }
+
