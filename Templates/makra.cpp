@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 using namespace std;
 #define sim template < class c
@@ -36,3 +35,4 @@ sim dor(const c&) { ris; }
 int main() { 
     
 }
+
