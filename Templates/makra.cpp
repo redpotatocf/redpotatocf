@@ -31,8 +31,7 @@ sim dor(const c&) { ris; }
 // debug & operator << (debug & dd, P p) { dd << "(" << p.x << ", " << p.y << ")"; return dd; }
 
 
+
 int main() { 
     
 }
-
-
